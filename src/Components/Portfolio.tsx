@@ -74,7 +74,7 @@ export function Portfolio() {
     <>
 
       <section className="Navbar">
-        <div className='head-profile'>Pradeep's <br className="Break"></br>Portfolio</div>
+        <div className='head-profile'>Joel Griffin <br className="Break"></br>Portfolio</div>
         <div className="nav">
           <div className='nav-txt'><a href='#About'>About</a></div>
           <div className='nav-txt'><a href='#Skills'>Skills</a></div>
