@@ -1349,7 +1349,15 @@
         grid-template-columns: none;
     }
 
+    .profile-img{
+        height: 350px;
+        width: 300px;
+        overflow: hidden;
+    }
+
     .profile-img>img {
+        height: 400px;
+        width: 350px;
         margin-left: 0%;
     }
 
@@ -1758,9 +1766,15 @@
         text-align: center;
     }
 
+    .profile-img{
+        height: 450px;
+        width: 400px;
+        overflow: hidden;
+    }
+
     .profile-img>img {
-        height: 600px;
-        width: 550px;
+        height: 500px;
+        width: 500px;
         margin-left: 0%;
     }
 
