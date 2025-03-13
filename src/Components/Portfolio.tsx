@@ -74,7 +74,7 @@ export function Portfolio() {
     <>
 
       <section className="Navbar">
-        <div className='head-profile'>Joel Griffin <br className="Break"></br>Portfolio</div>
+        <div className='head-profile'>Pradeep's <br className="Break"></br>Portfolio</div>
         <div className="nav">
           <div className='nav-txt'><a href='#About'>About</a></div>
           <div className='nav-txt'><a href='#Skills'>Skills</a></div>
@@ -91,7 +91,7 @@ export function Portfolio() {
         </div>
         <div className="Profile-txt-main">
           <div className="Profile-txt-one">Hello, I'm</div>
-          <div className="Profile-txt-two">Joel Griffin</div>
+          <div className="Profile-txt-two">Pradeep M</div>
           <div className="Profile-txt-three">Data Analyst</div>
           <a className="Profile-txt-btn" href={resume}>Download Resume</a>
           {/* <button  className="Profile-txt-btn">Download Resume</button> */}
